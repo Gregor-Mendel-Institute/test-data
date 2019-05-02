@@ -1,0 +1,6 @@
+S1	https://github.com/Gregor-Mendel-Institute/test-data/raw/MethylScore/data/S1_CpG.bedGraph
+S1	https://github.com/Gregor-Mendel-Institute/test-data/raw/MethylScore/data/S1_CHG.bedGraph
+S1	https://github.com/Gregor-Mendel-Institute/test-data/raw/MethylScore/data/S1_CHH.bedGraph
+S2	https://github.com/Gregor-Mendel-Institute/test-data/raw/MethylScore/data/S2_CpG.bedGraph
+S2	https://github.com/Gregor-Mendel-Institute/test-data/raw/MethylScore/data/S2_CHG.bedGraph
+S2	https://github.com/Gregor-Mendel-Institute/test-data/raw/MethylScore/data/S2_CHH.bedGraph
